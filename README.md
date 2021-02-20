@@ -1,2 +1,3 @@
-# practicas-8-9-10
-# practicas-8-9-10
+# DDAII (ES)
+
+Repositorio de las prácticas para la asignatura de DDA II
